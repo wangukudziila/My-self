@@ -6,9 +6,9 @@ property: value;
 
 font-family: Arial, sans-serif;
 
-color: # Teal;
+color: # Hex;
 
-background-color: #009688;
+background-color: #3C6A8;
 
 margin: 0;
 
@@ -19,9 +19,9 @@ line-height: 1.6;
 }
 header {
 
-background-color: #009688;
+background-color: #3C6A8;
 
-color: Teal;
+color: Hex;
 
 padding: 20px;
 
@@ -39,7 +39,7 @@ margin: 0;
 
 nav a {
 
-color: Teal;
+color: Hex;
 
 text-decoration: none;
 
@@ -78,9 +78,9 @@ margin: 20px 0;
 }
 footer {
 
-background-color: #009688;
+background-color: #3C6A8;
 
-color:Teal;
+color:Hex;
 
 text-align: center;
 
