@@ -6,9 +6,9 @@ property: value;
 
 font-family: Arial, sans-serif;
 
-color: #333;
+color: #Dark gray;
 
-background-color: #f9f9f9;
+background-color: ##212121;
 
 margin: 0;
 
@@ -19,9 +19,9 @@ line-height: 1.6;
 }
 header {
 
-background-color: #4CAF50;
+background-color: #212121;
 
-color: white;
+color: Dark gray;
 
 padding: 20px;
 
@@ -78,9 +78,9 @@ margin: 20px 0;
 }
 footer {
 
-background-color: #333;
+background-color: #212121;
 
-color: white;
+color:Dark gray;
 
 text-align: center;
 
