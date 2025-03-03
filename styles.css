@@ -93,4 +93,8 @@ bottom: 0;
 width: 100%;
 
 }
+img {
+  width: 100%; /* Resize to fit container */
+  height: auto; /* Maintain aspect ratio */
+}
 
