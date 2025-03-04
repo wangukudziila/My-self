@@ -4,7 +4,7 @@ property: value;
 
 }body {
 
-font-family: Arial, sans-serif;
+font-family: italic; , Italicized text ;
 
 color: purple ;
 
@@ -15,6 +15,8 @@ margin:20px 0;
 padding: 0;
 
 line-height: 1.6;
+
+font size: 16px;
 
 }
 header {
@@ -30,7 +32,7 @@ text-align: center;
 }
 
 
-header h1 {
+header h1 { #2c3e50;
 
 margin:20px 0;
 
@@ -41,7 +43,7 @@ nav a {
 
 color: purple;
 
-text-decoration: none;
+text-decoration: bold;
 
 margin: 0 20px;
 
@@ -50,7 +52,7 @@ margin: 0 20px;
 
 nav a:hover {
 
-text-decoration: underline;
+text-decoration: bold;
 
 }
 
@@ -76,7 +78,7 @@ display: block;
 margin: 20px 0;
 
 }
-footer {
+footer { #2c3e50;
 
 background-color: #88085C;
 
