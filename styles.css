@@ -13,9 +13,9 @@ property: value;
 
 font-family: italic; , Italicized text ;
 
-color: purple ;
+color: cream ;
 
-background-color: #88085C;
+background-color:  #FFF5E1;
 
 margin:20px 0;
 
@@ -28,7 +28,7 @@ font size: 20px;
 }
 header {
 
-background-color: #88085C;
+background-color:  #FFF5E1C;
 
 color:purple;
 
@@ -87,9 +87,9 @@ margin: 20px 0;
 }
 footer :#2c3e50;
 
-background-color: #88085C;
+background-color:  #FFF5E1;
 
-color:purple;
+color:cream;
 
 text-align: center;
 
