@@ -6,9 +6,9 @@ property: value;
 
 font-family: Arial, sans-serif;
 
-color: # Deep blue;
+color: purple ;
 
-background-color: #004D40;
+background-color: #88085C;
 
 margin: 0;
 
@@ -19,9 +19,9 @@ line-height: 1.6;
 }
 header {
 
-background-color: #004D40;
+background-color: #88085C;
 
-color:Deep blue;
+color:purple;
 
 padding: 20px;
 
@@ -39,7 +39,7 @@ margin: 0;
 
 nav a {
 
-color: Deep blue;
+color: purple;
 
 text-decoration: none;
 
@@ -78,9 +78,9 @@ margin: 20px 0;
 }
 footer {
 
-background-color: #004D40;
+background-color: #88085C;
 
-color:Deep blue;
+color:purple;
 
 text-align: center;
 
