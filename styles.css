@@ -8,8 +8,15 @@ property: value;
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome to my Website</title>
     <style>
+    .container {
+            width: 100%; /* Set the container width */
+            padding: 20px; /* Add padding inside the container */
+            background-color: #f2f2f2;
+            text-align: center; /* Center the text horizontally */
+        }
+    </style>
 
-}body {
+}body 
 
 font-family: italic; , Italicized text ;
 
