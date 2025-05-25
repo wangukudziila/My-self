@@ -51,6 +51,38 @@ header h1 :#2c3e50;
 margin:20px 0;
 
 }
+/* Navigation container */
+.navbar {
+  background-color: #333;
+  padding: 5px 0; /* Less height */
+}
+
+/* Horizontal list */
+.navbar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center; /* Center horizontally */
+}
+
+/* List items */
+.navbar li {
+  margin: 0 10px;
+}
+
+/* Navigation links */
+.navbar a {
+  text-decoration: none;
+  color: white;
+  font-size: 14px;        /* Smaller text */
+  padding: 6px 10px;       /* Less vertical space */
+  display: inline-block;
+}
+
+.navbar a:hover {
+  background-color: #555;
+}
 
 
 nav a {
